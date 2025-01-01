@@ -1,2 +1,1 @@
-# credit-card-fraud-detection
-this is a test-repo for my software quality assurance assignment 
+This project detects fraudulent transactions using machine learning models. 
